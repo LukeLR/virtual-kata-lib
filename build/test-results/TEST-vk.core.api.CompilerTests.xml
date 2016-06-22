@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="vk.core.api.CompilerTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-06-22T13:17:11" hostname="Lukas-TP-Win8" time="1.009">
+  <properties/>
+  <testcase name="compilingValidClassesWithDependency_shouldNotProduceCompileErrors" classname="vk.core.api.CompilerTests" time="0.756"/>
+  <testcase name="compilingATestClassWithDependency_shouldNotProduceCompileErrors" classname="vk.core.api.CompilerTests" time="0.067"/>
+  <testcase name="compilingATestClassWithMissingDependency_shouldProduceCompileErrors" classname="vk.core.api.CompilerTests" time="0.046"/>
+  <testcase name="compilingAValidClass_shouldNotProduceCompileErrors1" classname="vk.core.api.CompilerTests" time="0.038"/>
+  <testcase name="compilingAValidClass_shouldNotProduceCompileErrors2" classname="vk.core.api.CompilerTests" time="0.045"/>
+  <testcase name="compilingAClassWhereNamesDoNotMatch_shouldProduceCompileErrors" classname="vk.core.api.CompilerTests" time="0.033"/>
+  <testcase name="compilingAClassWithSyntaxError_shouldProduceCompileErrors" classname="vk.core.api.CompilerTests" time="0.011"/>
+  <testcase name="compilingAClassesWithNameConflicts_shouldThrowAnExeption" classname="vk.core.api.CompilerTests" time="0.0"/>
+  <testcase name="compilingAClassWithMissingDependency_shouldProduceCompileErrors" classname="vk.core.api.CompilerTests" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

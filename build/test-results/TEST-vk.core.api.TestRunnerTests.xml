@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="vk.core.api.TestRunnerTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-06-22T13:17:12" hostname="Lukas-TP-Win8" time="0.338">
+  <properties/>
+  <testcase name="runningFailingTestTwoTestsBothFail_shouldResultInFailure" classname="vk.core.api.TestRunnerTests" time="0.086"/>
+  <testcase name="runningFailingTestTwoTestsOneFail_shouldResultInFailure" classname="vk.core.api.TestRunnerTests" time="0.047"/>
+  <testcase name="runningValidTestTwoTests_shouldNotResultInFailure" classname="vk.core.api.TestRunnerTests" time="0.059"/>
+  <testcase name="runningValidTestOneTest_shouldNotResultInFailure" classname="vk.core.api.TestRunnerTests" time="0.07"/>
+  <testcase name="runningFailingTestThreeTestsOneIgnoreOneFail_shouldResultInFailure" classname="vk.core.api.TestRunnerTests" time="0.076"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
